@@ -1,4 +1,4 @@
-# Discord Bot with PyQt6 GUI
+# Discord Bot with PyQt6 GUI (Only the messaging function works for now)
 A Discord bot with a graphical interface for managing channels and sending messages.
 
 ## Setup
